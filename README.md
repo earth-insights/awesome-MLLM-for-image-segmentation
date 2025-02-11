@@ -1,4 +1,4 @@
-# Awesome MLLM for Segmentation
+# Awesome LLM/MLLM for Image Segmentation
 
 ## Survey
 
