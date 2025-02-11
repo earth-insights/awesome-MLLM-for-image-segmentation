@@ -8,7 +8,7 @@
 ## General
 
 - LISA: Reasoning Segmentation via Large Language Model. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.html)] | [[code](https://github.com/dvlab-research/LISA)]
-- 
+- EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model. arXiv'2024. [[paper](https://arxiv.org/abs/2406.20076)] | [[code](https://github.com/hustvl/EVF-SAM)]
 
 ## Remote sensing
 
