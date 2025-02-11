@@ -9,6 +9,7 @@
 
 - LISA: Reasoning Segmentation via Large Language Model. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.html)] | [[code](https://github.com/dvlab-research/LISA)]
 - LISA++: An Improved Baseline for Reasoning Segmentation with Large Language Model. arXiv'2023. [[paper](https://openreview.net/forum?id=NBQFAN228B)] | [[code](https://github.com/dvlab-research/LISA)]
+- GLaMM: Pixel Grounding Large Multimodal Model. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Rasheed_GLaMM_Pixel_Grounding_Large_Multimodal_Model_CVPR_2024_paper.html)] | [[code](https://github.com/mbzuai-oryx/groundingLMM)]
 - EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model. arXiv'2024. [[paper](https://arxiv.org/abs/2406.20076)] | [[code](https://github.com/hustvl/EVF-SAM)]
 
 ## Remote sensing
