@@ -13,3 +13,5 @@
 ## Remote sensing
 
 - RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts. arXiv'2024. [[paper](https://arxiv.org/abs/2412.05679)] | [[code](https://github.com/xuliu-cyber/RSUniVLM)]
+- GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.06828)]
+- GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. arXiv'2025. [[paper](https://github.com/mbzuai-oryx/GeoPixel)] | [[code](https://github.com/mbzuai-oryx/GeoPixel)]
