@@ -37,7 +37,12 @@
 
 ## Remote sensing
 
-- GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding. arXiv'2024. [[paper](http://arxiv.org/abs/2411.11904)] | [[code](https://github.com/zytx121/GeoGround)]
+### MLLM with Segmentation Capability
+
 - RSUniVLM: A Unified Vision Language Model for Remote Sensing via Granularity-oriented Mixture of Experts. arXiv'2024. [[paper](https://arxiv.org/abs/2412.05679)] | [[code](https://github.com/xuliu-cyber/RSUniVLM)] | [[project](https://rsunivlm.github.io/)]
+- GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding. arXiv'2024. [[paper](http://arxiv.org/abs/2411.11904)] | [[code](https://github.com/zytx121/GeoGround)]
+
+### Segmentation Model with LLM/MLLM
+
 - GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.06828)]
 - GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. arXiv'2025. [[paper](https://github.com/mbzuai-oryx/GeoPixel)] | [[code](https://github.com/mbzuai-oryx/GeoPixel)] | [[project](https://mbzuai-oryx.github.io/GeoPixel/)]
