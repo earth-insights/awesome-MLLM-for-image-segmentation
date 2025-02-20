@@ -17,6 +17,7 @@
 - PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model. ECCV'2024. [[paper](https://arxiv.org/abs/2403.14598)] | [[code](https://github.com/zamling/PSALM)]
 - VISA: Reasoning Video Object Segmentation via Large Language Models. ECCV'2024. [[paper](https://arxiv.org/abs/2407.11325)] | [[code](https://github.com/cilinyan/VISA)]
 - EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model. arXiv'2024. [[paper](https://arxiv.org/abs/2406.20076)] | [[code](https://github.com/hustvl/EVF-SAM)]
+- Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model. arXiv'2024. [[paper](https://arxiv.org/abs/2409.13407)] | [[code](https://github.com/lizhou-cs/mglmm)] | [[project](https://lizhou-cs.github.io/mglmm.github.io/)]
 - Text4Seg: Reimagining Image Segmentation as Text Generation. ICLR'2025. [[paper](https://arxiv.org/abs/2410.09855)] | [[code](https://github.com/mc-lan/Text4Seg)] | [[project](https://mc-lan.github.io/Text4Seg/)]
 - InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models. arXiv'2024. [[paper](https://arxiv.org/abs/2412.14006)] | [[code](https://github.com/congvvc/InstructSeg)]
 - Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos. arXiv'2025. [[paper](https://arxiv.org/abs/2501.04001)] | [[code](https://github.com/magic-research/Sa2VA)] | [[project](https://lxtgh.github.io/project/sa2va/)]
