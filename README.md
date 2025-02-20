@@ -48,3 +48,12 @@
 
 - GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.06828)]
 - GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. arXiv'2025. [[paper](https://github.com/mbzuai-oryx/GeoPixel)] | [[code](https://github.com/mbzuai-oryx/GeoPixel)] | [[project](https://mbzuai-oryx.github.io/GeoPixel/)]
+
+
+## Contributing
+
+If you find any errors, or you wish to add some papers, please feel free to contribute to this list by contacting [me](https://likyoo.github.io/) or by creating a [pull request](https://github.com/likyoo/awesome-MLLM-for-image-segmentation/pulls) using the following Markdown format:
+
+```markdown
+- Paper Name. Conference'Year. [[paper](link)] | [[code](link)] | ...
+```
