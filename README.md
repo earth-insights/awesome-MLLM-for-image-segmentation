@@ -21,6 +21,7 @@
 **`[VideoObjSeg]`**: Video Object Segmentation  
 **`[ReferVOS]`**: Referring Video Object Segmentation  
 **`[ReasonVOS]`**: Reasoning Video Object Segmentation
+**`[VideoInteractSeg]`**: Video Iteractive Segmentation  
 
 Note: Only the tasks assessed in the paper are listed here.
 
@@ -55,7 +56,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][GRES][ReasonIS][GCG][MGSC]`** Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model. arXiv'2024. [[paper](https://arxiv.org/abs/2409.13407)] | [[code](https://github.com/lizhou-cs/mglmm)] | [[project](https://lizhou-cs.github.io/mglmm.github.io/)]
 - **`[ReferIS][GRES]`** Text4Seg: Reimagining Image Segmentation as Text Generation. ICLR'2025. [[paper](https://arxiv.org/abs/2410.09855)] | [[code](https://github.com/mc-lan/Text4Seg)] | [[project](https://mc-lan.github.io/Text4Seg/)]
 - **`[ReferIS][ReasonIS][ReferVOS][ReasonVOS]`** InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models. arXiv'2024. [[paper](https://arxiv.org/abs/2412.14006)] | [[code](https://github.com/congvvc/InstructSeg)]
-- **`[ReferIS][GCG][ReferVOS]`** Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos. arXiv'2025. [[paper](https://arxiv.org/abs/2501.04001)] | [[code](https://github.com/magic-research/Sa2VA)] | [[project](https://lxtgh.github.io/project/sa2va/)]
+- **`[ReferIS][GCG][ReferVOS][VideoInteractSeg]`** Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos. arXiv'2025. [[paper](https://arxiv.org/abs/2501.04001)] | [[code](https://github.com/magic-research/Sa2VA)] | [[project](https://lxtgh.github.io/project/sa2va/)]
 
 ## Remote sensing
 
