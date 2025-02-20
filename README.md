@@ -4,8 +4,15 @@
 
 - Image Segmentation in Foundation Model Era: A Survey. arXiv'2024. [[paper](https://arxiv.org/abs/2408.12957)] | [[project](https://github.com/stanley-313/ImageSegFM-Survey)]
 
-
 ## General
+
+### MLLM with Segmentation Capability
+
+- Florence-2: Advancing a Unified Representation for a Variety of Vision Tasks. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xiao_Florence-2_Advancing_a_Unified_Representation_for_a_Variety_of_Vision_CVPR_2024_paper.html)] | [[code](https://huggingface.co/collections/microsoft/florence-6669f44df0d87d9c3bfb76de)]
+- PaliGemma: A versatile 3B VLM for transfer. arXiv'2024. [[paper](https://arxiv.org/abs/2407.07726)] | [[code](https://github.com/google-research/big_vision)]
+- PaliGemma 2: A Family of Versatile VLMs for Transfer. arXiv'2024. [[paper](https://arxiv.org/abs/2412.03555)] | [[code](https://github.com/google-research/big_vision)]
+
+### Segmentation Model with LLM/MLLM
 
 - LISA: Reasoning Segmentation via Large Language Model. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.html)] | [[code](https://github.com/dvlab-research/LISA)]
 - LISA++: An Improved Baseline for Reasoning Segmentation with Large Language Model. arXiv'2023. [[paper](https://openreview.net/forum?id=NBQFAN228B)] | [[code](https://github.com/dvlab-research/LISA)]
