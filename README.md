@@ -7,17 +7,19 @@
 ## Related Task
 
 **`[ReferIS]`**: Referring Image Segmentation  
+**`[GRES]`**: Generalized Referring Expression Segmentation  
 **`[ReasonIS]`**: Reasoning Image Segmentation  
 **`[ReasonInstIS]`**: Referring Instance Image Segmentation  
 **`[SiD]`**: Segmentation in Dialogue  
 **`[GCG]`**: Grounded Conversation Generation  
-**`[GRES]`**: Generalized Referring Expression Segmentation  
+**`[MGSC]`**: MultiGranularity Segmentation and Captioning  
 **`[ImgSemSeg]`**: Image Semantic Segmentation  
 **`[ImgInstSeg]`**: Image Instance Segmentation  
 **`[ImgPanSeg]`**: Image Panoptic Segmentation  
 **`[ImgInteractSeg]`**: Image Iteractive Segmentation  
 **`[OVSeg]`**: Open-Vocabulary Segmentation  
 **`[VideoObjSeg]`**: Video Object Segmentation  
+**`[ReferVOS]`**: Referring Video Object Segmentation  
 **`[ReasonVOS]`**: Reasoning Video Object Segmentation
 
 Note: Only the tasks assessed in the paper are listed here.
@@ -48,12 +50,12 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS][GCG][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg]`** OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding. NeurIPS'2024. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/83eb86be3e2f9fd66c44d9073c51ba4d-Abstract-Conference.html)] | [[code](https://github.com/lxtGH/OMG-Seg)] | [[project](https://lxtgh.github.io/project/omg_llava/)]
 - **`[ReferIS][GRES][ReasonIS][GCG][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg][VideoObjSeg][OVSeg]`** PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model. ECCV'2024. [[paper](https://arxiv.org/abs/2403.14598)] | [[code](https://github.com/zamling/PSALM)]
 - **`[ReferIS][ReasonIS][ReasonVOS]`** VISA: Reasoning Video Object Segmentation via Large Language Models. ECCV'2024. [[paper](https://arxiv.org/abs/2407.11325)] | [[code](https://github.com/cilinyan/VISA)]
-- LaSagnA: Language-based Segmentation Assistant for Complex Queries. arXiv'2024. [[paper](https://arxiv.org/abs/2404.08506)] | [[code](https://github.com/congvvc/LaSagnA)]
-- EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model. arXiv'2024. [[paper](https://arxiv.org/abs/2406.20076)] | [[code](https://github.com/hustvl/EVF-SAM)]
-- Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model. arXiv'2024. [[paper](https://arxiv.org/abs/2409.13407)] | [[code](https://github.com/lizhou-cs/mglmm)] | [[project](https://lizhou-cs.github.io/mglmm.github.io/)]
-- Text4Seg: Reimagining Image Segmentation as Text Generation. ICLR'2025. [[paper](https://arxiv.org/abs/2410.09855)] | [[code](https://github.com/mc-lan/Text4Seg)] | [[project](https://mc-lan.github.io/Text4Seg/)]
-- InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models. arXiv'2024. [[paper](https://arxiv.org/abs/2412.14006)] | [[code](https://github.com/congvvc/InstructSeg)]
-- Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos. arXiv'2025. [[paper](https://arxiv.org/abs/2501.04001)] | [[code](https://github.com/magic-research/Sa2VA)] | [[project](https://lxtgh.github.io/project/sa2va/)]
+- **`[ImgSemSeg][ReferIS][GRES]`** LaSagnA: Language-based Segmentation Assistant for Complex Queries. arXiv'2024. [[paper](https://arxiv.org/abs/2404.08506)] | [[code](https://github.com/congvvc/LaSagnA)]
+- **`[ReferIS]`** EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model. arXiv'2024. [[paper](https://arxiv.org/abs/2406.20076)] | [[code](https://github.com/hustvl/EVF-SAM)]
+- **`[ReferIS][GRES][ReasonIS][GCG][MGSC]`** Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model. arXiv'2024. [[paper](https://arxiv.org/abs/2409.13407)] | [[code](https://github.com/lizhou-cs/mglmm)] | [[project](https://lizhou-cs.github.io/mglmm.github.io/)]
+- **`[ReferIS][GRES]`** Text4Seg: Reimagining Image Segmentation as Text Generation. ICLR'2025. [[paper](https://arxiv.org/abs/2410.09855)] | [[code](https://github.com/mc-lan/Text4Seg)] | [[project](https://mc-lan.github.io/Text4Seg/)]
+- **`[ReferIS][ReasonIS][ReferVOS][ReasonVOS]`** InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models. arXiv'2024. [[paper](https://arxiv.org/abs/2412.14006)] | [[code](https://github.com/congvvc/InstructSeg)]
+- **`[ReferIS][GCG][ReferVOS]`** Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos. arXiv'2025. [[paper](https://arxiv.org/abs/2501.04001)] | [[code](https://github.com/magic-research/Sa2VA)] | [[project](https://lxtgh.github.io/project/sa2va/)]
 
 ## Remote sensing
 
@@ -64,8 +66,8 @@ Note: Only the tasks assessed in the paper are listed here.
 
 ### Segmentation Model with LLM/MLLM
 
-- GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.06828)]
-- GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. arXiv'2025. [[paper](https://github.com/mbzuai-oryx/GeoPixel)] | [[code](https://github.com/mbzuai-oryx/GeoPixel)] | [[project](https://mbzuai-oryx.github.io/GeoPixel/)]
+- **`[GCG]`** GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.06828)]
+- **`[ReferIS][GCG]`** GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.13925)] | [[code](https://github.com/mbzuai-oryx/GeoPixel)] | [[project](https://mbzuai-oryx.github.io/GeoPixel/)]
 
 
 ## Contributing
