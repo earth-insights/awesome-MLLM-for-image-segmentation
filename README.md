@@ -20,7 +20,7 @@
 **`[OVSeg]`**: Open-Vocabulary Segmentation  
 **`[VideoObjSeg]`**: Video Object Segmentation  
 **`[ReferVOS]`**: Referring Video Object Segmentation  
-**`[ReasonVOS]`**: Reasoning Video Object Segmentation
+**`[ReasonVOS]`**: Reasoning Video Object Segmentation  
 **`[VideoInteractSeg]`**: Video Iteractive Segmentation  
 
 Note: Only the tasks assessed in the paper are listed here.
