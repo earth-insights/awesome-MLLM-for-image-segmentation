@@ -4,6 +4,24 @@
 
 # <p align=center>`Awesome LLM/MLLM for Image Segmentation`</p>
 
+## Related Task
+
+**`[ReferIS]`**: Referring Image Segmentation  
+**`[ReasonIS]`**: Reasoning Image Segmentation  
+**`[ReasonInstIS]`**: Referring Instance Image Segmentation  
+**`[SiD]`**: Segmentation in Dialogue  
+**`[GCG]`**: Grounded Conversation Generation  
+**`[GRES]`**: Generalized Referring Expression Segmentation  
+**`[ImgSemSeg]`**: Image Semantic Segmentation  
+**`[ImgInstSeg]`**: Image Instance Segmentation  
+**`[ImgPanSeg]`**: Image Panoptic Segmentation  
+**`[ImgInteractSeg]`**: Image Iteractive Segmentation  
+**`[OVSeg]`**: Open-Vocabulary Segmentation  
+**`[VideoObjSeg]`**: Video Object Segmentation  
+**`[ReasonVOS]`**: Reasoning Video Object Segmentation
+
+Note: Only the tasks assessed in the paper are listed here.
+
 ## Survey
 
 - Image Segmentation in Foundation Model Era: A Survey. arXiv'2024. [[paper](https://arxiv.org/abs/2408.12957)] | [[project](https://github.com/stanley-313/ImageSegFM-Survey)]
@@ -20,16 +38,16 @@
 
 ### Segmentation Model with LLM/MLLM
 
-- LISA: Reasoning Segmentation via Large Language Model. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.html)] | [[code](https://github.com/dvlab-research/LISA)]
-- LISA++: An Improved Baseline for Reasoning Segmentation with Large Language Model. arXiv'2023. [[paper](https://openreview.net/forum?id=NBQFAN228B)] | [[code](https://github.com/dvlab-research/LISA)]
-- GSVA: Generalized Segmentation via Multimodal Large Language Models. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_GSVA_Generalized_Segmentation_via_Multimodal_Large_Language_Models_CVPR_2024_paper.html)] | [[code](https://github.com/LeapLabTHU/GSVA)]
+- **`[ReferIS][ReasonIS]`** LISA: Reasoning Segmentation via Large Language Model. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Lai_LISA_Reasoning_Segmentation_via_Large_Language_Model_CVPR_2024_paper.html)] | [[code](https://github.com/dvlab-research/LISA)]
+- **`[ReferIS][ReasonIS][ReasonInstIS][SiD]`** LISA++: An Improved Baseline for Reasoning Segmentation with Large Language Model. arXiv'2023. [[paper](https://openreview.net/forum?id=NBQFAN228B)] | [[code](https://github.com/dvlab-research/LISA)]
+- **`[ReferIS][GRES]`** GSVA: Generalized Segmentation via Multimodal Large Language Models. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Xia_GSVA_Generalized_Segmentation_via_Multimodal_Large_Language_Models_CVPR_2024_paper.html)] | [[code](https://github.com/LeapLabTHU/GSVA)]
 - PixelLM: Pixel Reasoning with Large Multimodal Model. CVPR'2024. [[paper](https://arxiv.org/abs/2312.02228)] | [[code](https://github.com/MaverickRen/PixelLM)] | [[project](https://pixellm.github.io/)]
-- GLaMM: Pixel Grounding Large Multimodal Model. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Rasheed_GLaMM_Pixel_Grounding_Large_Multimodal_Model_CVPR_2024_paper.html)] | [[code](https://github.com/mbzuai-oryx/groundingLMM)] | [[project](https://mbzuai-oryx.github.io/groundingLMM/)]
-- GROUNDHOG: Grounding Large Language Models to Holistic Segmentation. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_GROUNDHOG_Grounding_Large_Language_Models_to_Holistic_Segmentation_CVPR_2024_paper.html)] | [[project](https://groundhog-mllm.github.io/)]
-- LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning. CVPRW'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/html/Wang_LLM-Seg_Bridging_Image_Segmentation_and_Large_Language_Model_Reasoning_CVPRW_2024_paper.html)] | [[code](https://github.com/wangjunchi/LLMSeg)]
-- OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding. NeurIPS'2024. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/83eb86be3e2f9fd66c44d9073c51ba4d-Abstract-Conference.html)] | [[code](https://github.com/lxtGH/OMG-Seg)] | [[project](https://lxtgh.github.io/project/omg_llava/)]
-- PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model. ECCV'2024. [[paper](https://arxiv.org/abs/2403.14598)] | [[code](https://github.com/zamling/PSALM)]
-- VISA: Reasoning Video Object Segmentation via Large Language Models. ECCV'2024. [[paper](https://arxiv.org/abs/2407.11325)] | [[code](https://github.com/cilinyan/VISA)]
+- **`[ReferIS][GCG]`** GLaMM: Pixel Grounding Large Multimodal Model. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Rasheed_GLaMM_Pixel_Grounding_Large_Multimodal_Model_CVPR_2024_paper.html)] | [[code](https://github.com/mbzuai-oryx/groundingLMM)] | [[project](https://mbzuai-oryx.github.io/groundingLMM/)]
+- **`[ReferIS][GRES][ReasonIS]`** GROUNDHOG: Grounding Large Language Models to Holistic Segmentation. CVPR'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Zhang_GROUNDHOG_Grounding_Large_Language_Models_to_Holistic_Segmentation_CVPR_2024_paper.html)] | [[project](https://groundhog-mllm.github.io/)]
+- **`[ReasonIS]`** LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning. CVPRW'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/html/Wang_LLM-Seg_Bridging_Image_Segmentation_and_Large_Language_Model_Reasoning_CVPRW_2024_paper.html)] | [[code](https://github.com/wangjunchi/LLMSeg)]
+- **`[ReferIS][ReasonIS][GCG][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg]`** OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding. NeurIPS'2024. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/83eb86be3e2f9fd66c44d9073c51ba4d-Abstract-Conference.html)] | [[code](https://github.com/lxtGH/OMG-Seg)] | [[project](https://lxtgh.github.io/project/omg_llava/)]
+- **`[ReferIS][GRES][ReasonIS][GCG][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg][VideoObjSeg][OVSeg]`** PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model. ECCV'2024. [[paper](https://arxiv.org/abs/2403.14598)] | [[code](https://github.com/zamling/PSALM)]
+- **`[ReferIS][ReasonIS][ReasonVOS]`** VISA: Reasoning Video Object Segmentation via Large Language Models. ECCV'2024. [[paper](https://arxiv.org/abs/2407.11325)] | [[code](https://github.com/cilinyan/VISA)]
 - LaSagnA: Language-based Segmentation Assistant for Complex Queries. arXiv'2024. [[paper](https://arxiv.org/abs/2404.08506)] | [[code](https://github.com/congvvc/LaSagnA)]
 - EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model. arXiv'2024. [[paper](https://arxiv.org/abs/2406.20076)] | [[code](https://github.com/hustvl/EVF-SAM)]
 - Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model. arXiv'2024. [[paper](https://arxiv.org/abs/2409.13407)] | [[code](https://github.com/lizhou-cs/mglmm)] | [[project](https://lizhou-cs.github.io/mglmm.github.io/)]
