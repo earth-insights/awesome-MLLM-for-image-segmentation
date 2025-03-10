@@ -79,3 +79,7 @@ If you find any errors, or you wish to add some papers, please feel free to cont
 ```markdown
 - Paper Name. Conference'Year. [[paper](link)] | [[code](link)] | ...
 ```
+
+## Related Links
+
+- [Awesome-MLLM-Segmentation](https://github.com/mc-lan/Awesome-MLLM-Segmentation)
