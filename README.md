@@ -52,6 +52,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReasonIS]`** LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning. CVPRW'2024. [[paper](https://openaccess.thecvf.com/content/CVPR2024W/MMFM/html/Wang_LLM-Seg_Bridging_Image_Segmentation_and_Large_Language_Model_Reasoning_CVPRW_2024_paper.html)] | [[code](https://github.com/wangjunchi/LLMSeg)]
 - **`[ReferIS][ReasonIS][GCG][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg]`** OMG-LLaVA: Bridging Image-level, Object-level, Pixel-level Reasoning and Understanding. NeurIPS'2024. [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/83eb86be3e2f9fd66c44d9073c51ba4d-Abstract-Conference.html)] | [[code](https://github.com/lxtGH/OMG-Seg)] | [[project](https://lxtgh.github.io/project/omg_llava/)]
 - **`[ReferIS][GRES][ReasonIS][GCG][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg][VideoObjSeg][OVSeg]`** PSALM: Pixelwise SegmentAtion with Large Multi-Modal Model. ECCV'2024. [[paper](https://arxiv.org/abs/2403.14598)] | [[code](https://github.com/zamling/PSALM)]
+- **`[ReferIS][GRES][ReasonIS]`** SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation. ECCV'2024. [[paper](https://arxiv.org/abs/2409.10542)] | [[code](https://github.com/AI-Application-and-Integration-Lab/SAM4MLLM)]
 - **`[ReferIS][ReasonIS][ReasonVOS]`** VISA: Reasoning Video Object Segmentation via Large Language Models. ECCV'2024. [[paper](https://arxiv.org/abs/2407.11325)] | [[code](https://github.com/cilinyan/VISA)]
 - **`[ImgSemSeg][ReferIS][GRES]`** LaSagnA: Language-based Segmentation Assistant for Complex Queries. arXiv'2024. [[paper](https://arxiv.org/abs/2404.08506)] | [[code](https://github.com/congvvc/LaSagnA)]
 - **`[ReferIS]`** EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model. arXiv'2024. [[paper](https://arxiv.org/abs/2406.20076)] | [[code](https://github.com/hustvl/EVF-SAM)]
@@ -61,6 +62,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReasonMIS]`** PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation. arXiv'2024. [[paper](https://arxiv.org/abs/2412.15209)] | [[project](https://plan-lab.github.io/prima)]
 - **`[ReferIS][GCG][ReferVOS][VideoInteractSeg]`** Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos. arXiv'2025. [[paper](https://arxiv.org/abs/2501.04001)] | [[code](https://github.com/magic-research/Sa2VA)] | [[project](https://lxtgh.github.io/project/sa2va/)]
 - **`[ReferIS][GRES]`** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding. arXiv'2025. [[paper](https://arxiv.org/abs/2503.10596)] | [[code](https://github.com/hustvl/GroundingSuite)]
+- **`[ReferIS][GRES][ReasonIS]`** HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model. arXiv'2025. [[paper](https://arxiv.org/abs/2503.13026)] | [[code](https://github.com/yayafengzi/LMM-HiMTok)]
 
 ## Remote sensing
 
