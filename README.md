@@ -60,6 +60,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS][ReferVOS][ReasonVOS]`** InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models. arXiv'2024. [[paper](https://arxiv.org/abs/2412.14006)] | [[code](https://github.com/congvvc/InstructSeg)]
 - **`[ReasonMIS]`** PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation. arXiv'2024. [[paper](https://arxiv.org/abs/2412.15209)] | [[project](https://plan-lab.github.io/prima)]
 - **`[ReferIS][GCG][ReferVOS][VideoInteractSeg]`** Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos. arXiv'2025. [[paper](https://arxiv.org/abs/2501.04001)] | [[code](https://github.com/magic-research/Sa2VA)] | [[project](https://lxtgh.github.io/project/sa2va/)]
+- **`[ReferIS][GRES]`** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding. arXiv'2025. [[paper](https://arxiv.org/abs/2503.10596)] | [[code](https://github.com/hustvl/GroundingSuite)]
 
 ## Remote sensing
 
