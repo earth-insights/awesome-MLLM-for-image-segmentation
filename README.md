@@ -63,6 +63,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][GCG][ReferVOS][VideoInteractSeg]`** Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos. arXiv'2025. [[paper](https://arxiv.org/abs/2501.04001)] | [[code](https://github.com/magic-research/Sa2VA)] | [[project](https://lxtgh.github.io/project/sa2va/)]
 - **`[ReferIS][GRES]`** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding. arXiv'2025. [[paper](https://arxiv.org/abs/2503.10596)] | [[code](https://github.com/hustvl/GroundingSuite)]
 - **`[ReferIS][GRES][ReasonIS]`** HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model. arXiv'2025. [[paper](https://arxiv.org/abs/2503.13026)] | [[code](https://github.com/yayafengzi/LMM-HiMTok)]
+- **`[ReferIS]`** Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding. arXiv'2025. [[paper](https://arxiv.org/abs/2504.10465)] | [[project](https://zhang-tao-whu.github.io/project/pixelsail)]
 
 ## Remote sensing
 
