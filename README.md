@@ -64,6 +64,9 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][GRES]`** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding. arXiv'2025. [[paper](https://arxiv.org/abs/2503.10596)] | [[code](https://github.com/hustvl/GroundingSuite)]
 - **`[ReferIS][GRES][ReasonIS]`** HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model. arXiv'2025. [[paper](https://arxiv.org/abs/2503.13026)] | [[code](https://github.com/yayafengzi/LMM-HiMTok)]
 - **`[ReferIS]`** Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding. arXiv'2025. [[paper](https://arxiv.org/abs/2504.10465)] | [[project](https://zhang-tao-whu.github.io/project/pixelsail)]
+- **`[RES][ReferIS]`** Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement. arXiv'2025. [[paper](https://arxiv.org/abs/2503.06520)] | [[code](https://github.com/dvlab-research/Seg-Zero)]
+- **`[RES][ReferIS]`** Think Before You Segment: High-Quality Reasoning Segmentation with GPT Chain of Thoughts. arXiv'2025. [[paper](https://arxiv.org/abs/2503.07503)] | [[project](https://cse.hkust.edu.hk/~skao/thinkfirst.html)]
+- **`[RES][ReferIS]`** POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation. arXiv'2025. [[paper](https://arxiv.org/abs/2504.00640)] | [[project](https://lanyunzhu.site/POPEN/)]
 
 ## Remote sensing
 
@@ -78,6 +81,7 @@ Note: Only the tasks assessed in the paper are listed here.
 
 - **`[ReferIS][GCG]`** GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.13925)] | [[code](https://github.com/mbzuai-oryx/GeoPixel)] | [[project](https://mbzuai-oryx.github.io/GeoPixel/)]
 - **`[ReferIS][ReasonIS]`** SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model. arXiv'2025. [[paper](https://arxiv.org/abs/2504.09644)] | [[code](https://github.com/earth-insights/SegEarth-R1)] | [[project](https://earth-insights.github.io/SegEarth-R1/)]
+- **`[ReasonIS]`** LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery. arXiv'2025. [[paper](https://arxiv.org/abs/2505.02829)] | [[code](https://github.com/lisat-bair/LISAt_code)] | [[project](https://lisat-bair.github.io/LISAt/)]
 
 ## Contributing
 
