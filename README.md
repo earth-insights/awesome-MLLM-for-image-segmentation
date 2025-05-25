@@ -69,6 +69,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[RES][ReferIS]`** POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation. arXiv'2025. [[paper](https://arxiv.org/abs/2504.00640)] | [[project](https://lanyunzhu.site/POPEN/)]
 - **`[ReasonIS][ReferIS]`** MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation. ICLR'2025. [[paper](https://arxiv.org/abs/2503.13881)] | [[code](https://github.com/jdg900/MMR)]
 - **`[ReasonIS][ReferIS]`** Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels. CVPR'2025. [[paper](https://arxiv.org/abs/2505.13788)]
+- **`[ReasonIS][ReferIS]`** VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning arXiv'2025. [[paper](https://arxiv.org/abs/2505.12081)] | [[code](https://github.com/dvlab-research/VisionReasoner)]
 
 ## Remote sensing
 
