@@ -72,6 +72,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReasonIS][ReferIS]`** VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning arXiv'2025. [[paper](https://arxiv.org/abs/2505.12081)] | [[code](https://github.com/dvlab-research/VisionReasoner)]
 - **`[ReferIS]`** Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model CVPR'2024 [[paper](https://arxiv.org/abs/2312.12423)] | [[project](https://shramanpramanick.github.io/VistaLLM/)]
 - **`[ReferIS]`** SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories CVPR'2025 [[paper](https://arxiv.org/abs/2503.08625)] | [[code](https://github.com/aim-uofa/SegAgent?tab=readme-ov-file)] | [[project](https://aim-uofa.github.io/SegAgent/)]
+- **`[ReferIS][ReasonIS]`** Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding arXiv'2025 [[paper](https://arxiv.org/abs/2503.06287)]
 
 ## Remote sensing
 
