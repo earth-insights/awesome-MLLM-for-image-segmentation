@@ -56,7 +56,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS][ReasonVOS]`** VISA: Reasoning Video Object Segmentation via Large Language Models. ECCV'2024. [[paper](https://arxiv.org/abs/2407.11325)] | [[code](https://github.com/cilinyan/VISA)]
 - **`[ImgSemSeg][ReferIS][GRES]`** LaSagnA: Language-based Segmentation Assistant for Complex Queries. arXiv'2024. [[paper](https://arxiv.org/abs/2404.08506)] | [[code](https://github.com/congvvc/LaSagnA)]
 - **`[ReferIS]`** EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model. arXiv'2024. [[paper](https://arxiv.org/abs/2406.20076)] | [[code](https://github.com/hustvl/EVF-SAM)]
-- **`[ReferIS][GRES][ReasonIS][GCG][MGSC]`** Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model. arXiv'2024. [[paper](https://arxiv.org/abs/2409.13407)] | [[code](https://github.com/lizhou-cs/mglmm)] | [[project](https://lizhou-cs.github.io/mglmm.github.io/)]
+- **`[ReferIS][GRES][ReasonIS][GCG][MGSC]`** Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model. AAAI'2025. [[paper](https://arxiv.org/abs/2409.13407)] | [[code](https://github.com/lizhou-cs/mglmm)] | [[project](https://lizhou-cs.github.io/mglmm.github.io/)]
 - **`[ReferIS][GRES]`** Text4Seg: Reimagining Image Segmentation as Text Generation. ICLR'2025. [[paper](https://arxiv.org/abs/2410.09855)] | [[code](https://github.com/mc-lan/Text4Seg)] | [[project](https://mc-lan.github.io/Text4Seg/)]
 - **`[ReferIS][ReasonIS][ReferVOS][ReasonVOS]`** InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models. arXiv'2024. [[paper](https://arxiv.org/abs/2412.14006)] | [[code](https://github.com/congvvc/InstructSeg)]
 - **`[ReasonMIS]`** PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation. arXiv'2024. [[paper](https://arxiv.org/abs/2412.15209)] | [[project](https://plan-lab.github.io/prima)]
@@ -73,7 +73,6 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS]`** Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model CVPR'2024 [[paper](https://arxiv.org/abs/2312.12423)] | [[project](https://shramanpramanick.github.io/VistaLLM/)]
 - **`[ReferIS]`** SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories CVPR'2025 [[paper](https://arxiv.org/abs/2503.08625)] | [[code](https://github.com/aim-uofa/SegAgent?tab=readme-ov-file)] | [[project](https://aim-uofa.github.io/SegAgent/)]
 - **`[ReferIS][ReasonIS]`** Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding arXiv'2025 [[paper](https://arxiv.org/abs/2503.06287)]
-- **`[ReferIS][ReasonIS][GCG][ImgPanSeg]`** Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model AAAI'2025 [[paper](https://arxiv.org/abs/2409.13407)] | [[code](https://github.com/lizhou-cs/mglmm)]
 
 ## Remote sensing
 
