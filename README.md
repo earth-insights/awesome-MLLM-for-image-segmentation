@@ -71,6 +71,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReasonIS][ReferIS]`** Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels. CVPR'2025. [[paper](https://arxiv.org/abs/2505.13788)]
 - **`[ReasonIS][ReferIS]`** VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning arXiv'2025. [[paper](https://arxiv.org/abs/2505.12081)] | [[code](https://github.com/dvlab-research/VisionReasoner)]
 - **`[ReferIS]`** Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model CVPR'2024 [[paper](https://arxiv.org/abs/2312.12423)] | [[project](https://shramanpramanick.github.io/VistaLLM/)]
+- **`[ReferIS]`** SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories CVPR'2025 [[paper](https://arxiv.org/abs/2503.08625)] | [[project](https://aim-uofa.github.io/SegAgent/)]
 
 ## Remote sensing
 
