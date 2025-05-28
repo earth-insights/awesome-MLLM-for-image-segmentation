@@ -9,7 +9,7 @@
 **`[ReferIS]`**: Referring Image Segmentation  
 **`[GRES]`**: Generalized Referring Expression Segmentation  
 **`[ReasonIS]`**: Reasoning Image Segmentation  
-**`[ReasonInstIS]`**: Referring Instance Image Segmentation  
+**`[ReasonInstIS]`**: Reasoning Instance Image Segmentation  
 **`[SiD]`**: Segmentation in Dialogue  
 **`[GCG]`**: Grounded Conversation Generation  
 **`[ReasonMIS]`**: Multi-image pixel-grounded Reasoning Segmentation
@@ -73,6 +73,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS]`** Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model CVPR'2024 [[paper](https://arxiv.org/abs/2312.12423)] | [[project](https://shramanpramanick.github.io/VistaLLM/)]
 - **`[ReferIS]`** SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories CVPR'2025 [[paper](https://arxiv.org/abs/2503.08625)] | [[code](https://github.com/aim-uofa/SegAgent?tab=readme-ov-file)] | [[project](https://aim-uofa.github.io/SegAgent/)]
 - **`[ReferIS][ReasonIS]`** Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding arXiv'2025 [[paper](https://arxiv.org/abs/2503.06287)]
+- **`[ReferIS][ReasonIS][GCG][ImgPanSeg]`** Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model AAAI'2025 [[paper](https://arxiv.org/abs/2409.13407)] | [[code](https://github.com/lizhou-cs/mglmm)]
 
 ## Remote sensing
 
