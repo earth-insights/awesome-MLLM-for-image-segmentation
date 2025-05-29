@@ -40,6 +40,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - NExT-Chat: An LMM for Chat, Detection and Segmentation. ICML'2024. [[paper](https://arxiv.org/abs/2311.04498)] | [[code](https://github.com/NExT-ChatV/NExT-Chat)] | [[project](https://next-chatv.github.io/)]
 - PaliGemma: A versatile 3B VLM for transfer. arXiv'2024. [[paper](https://arxiv.org/abs/2407.07726)] | [[code](https://github.com/google-research/big_vision)]
 - PaliGemma 2: A Family of Versatile VLMs for Transfer. arXiv'2024. [[paper](https://arxiv.org/abs/2412.03555)] | [[code](https://github.com/google-research/big_vision)]
+- REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding. arXiv'2025 [[paper](https://arxiv.org/abs/2503.07413)] | [[code](https://github.com/MacavityT/REF-VLM)]
 
 ### Segmentation Model with LLM/MLLM
 
@@ -74,6 +75,8 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS]`** SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories CVPR'2025 [[paper](https://arxiv.org/abs/2503.08625)] | [[code](https://github.com/aim-uofa/SegAgent?tab=readme-ov-file)] | [[project](https://aim-uofa.github.io/SegAgent/)]
 - **`[ReferIS][ReasonIS]`** Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding arXiv'2025 [[paper](https://arxiv.org/abs/2503.06287)]
 - **`[ReferIS][ReasonIS]`** SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning arXiv'2025 [[paper](https://arxiv.org/abs/2505.22596)]
+- **`[ImgSemSeg][ImgInstSeg][ReferIS]`** ROSE: Revolutionizing Open-Set Dense Segmentation with Patch-Wise Perceptual Large Multimodal Model arXiv'2025 [[paper](https://arxiv.org/abs/2412.00153)]
+
 
 ## Remote sensing
 
