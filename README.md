@@ -70,12 +70,13 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[RES][ReferIS]`** POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation. arXiv'2025. [[paper](https://arxiv.org/abs/2504.00640)] | [[project](https://lanyunzhu.site/POPEN/)]
 - **`[ReasonIS][ReferIS]`** MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation. ICLR'2025. [[paper](https://arxiv.org/abs/2503.13881)] | [[code](https://github.com/jdg900/MMR)]
 - **`[ReasonIS][ReferIS]`** Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels. CVPR'2025. [[paper](https://arxiv.org/abs/2505.13788)]
-- **`[ReasonIS][ReferIS]`** VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning arXiv'2025. [[paper](https://arxiv.org/abs/2505.12081)] | [[code](https://github.com/dvlab-research/VisionReasoner)]
-- **`[ReferIS]`** Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model CVPR'2024 [[paper](https://arxiv.org/abs/2312.12423)] | [[project](https://shramanpramanick.github.io/VistaLLM/)]
-- **`[ReferIS]`** SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories CVPR'2025 [[paper](https://arxiv.org/abs/2503.08625)] | [[code](https://github.com/aim-uofa/SegAgent?tab=readme-ov-file)] | [[project](https://aim-uofa.github.io/SegAgent/)]
-- **`[ReferIS][ReasonIS]`** Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding arXiv'2025 [[paper](https://arxiv.org/abs/2503.06287)]
-- **`[ReferIS][ReasonIS]`** SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning arXiv'2025 [[paper](https://arxiv.org/abs/2505.22596)]
-- **`[ImgSemSeg][ImgInstSeg][ReferIS]`** ROSE: Revolutionizing Open-Set Dense Segmentation with Patch-Wise Perceptual Large Multimodal Model arXiv'2025 [[paper](https://arxiv.org/abs/2412.00153)]
+- **`[ReasonIS][ReferIS]`** VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning. arXiv'2025. [[paper](https://arxiv.org/abs/2505.12081)] | [[code](https://github.com/dvlab-research/VisionReasoner)]
+- **`[ReferIS]`** Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model. CVPR'2024 [[paper](https://arxiv.org/abs/2312.12423)] | [[project](https://shramanpramanick.github.io/VistaLLM/)]
+- **`[ReferIS]`** SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories. CVPR'2025 [[paper](https://arxiv.org/abs/2503.08625)] | [[code](https://github.com/aim-uofa/SegAgent?tab=readme-ov-file)] | [[project](https://aim-uofa.github.io/SegAgent/)]
+- **`[ReferIS][ReasonIS]`** Your Large Vision-Language Model Only Needs A Few Attention Heads For Visual Grounding. arXiv'2025 [[paper](https://arxiv.org/abs/2503.06287)]
+- **`[ReferIS][ReasonIS]`** SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning. arXiv'2025 [[paper](https://arxiv.org/abs/2505.22596)]
+- **`[ImgSemSeg][ImgInstSeg][ReferIS]`** ROSE: Revolutionizing Open-Set Dense Segmentation with Patch-Wise Perceptual Large Multimodal Model. arXiv'2025 [[paper](https://arxiv.org/abs/2412.00153)]
+- **`[ReferIS][ReasonIS]`** PIXELTHINK: Towards Efficient Chain-of-Pixel Reasoning. arXiv'2025 [[paper](https://arxiv.org/abs/2505.23727)] | [[code](https://github.com/songw-zju/PixelThink)] | [[project](https://pixelthink.github.io/)]
 
 
 ## Remote sensing
