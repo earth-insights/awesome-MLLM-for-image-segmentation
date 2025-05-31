@@ -77,6 +77,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS]`** SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning. arXiv'2025 [[paper](https://arxiv.org/abs/2505.22596)]
 - **`[ImgSemSeg][ImgInstSeg][ReferIS]`** ROSE: Revolutionizing Open-Set Dense Segmentation with Patch-Wise Perceptual Large Multimodal Model. arXiv'2025 [[paper](https://arxiv.org/abs/2412.00153)]
 - **`[ReferIS][ReasonIS]`** PIXELTHINK: Towards Efficient Chain-of-Pixel Reasoning. arXiv'2025 [[paper](https://arxiv.org/abs/2505.23727)] | [[code](https://github.com/songw-zju/PixelThink)] | [[project](https://pixelthink.github.io/)]
+- **`[ReferIS][ImgSemSeg]`** LlamaSeg: Image Segmentation via Autoregressive Mask Generation. arXiv'2025 [[paper](https://arxiv.org/abs/2505.19422)]
 
 
 ## Remote sensing
