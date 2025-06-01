@@ -29,6 +29,7 @@ Note: Only the tasks assessed in the paper are listed here.
 ## Survey
 
 - Image Segmentation in Foundation Model Era: A Survey. arXiv'2024. [[paper](https://arxiv.org/abs/2408.12957)] | [[project](https://github.com/stanley-313/ImageSegFM-Survey)]
+- Reasoning Segmentation for Images and Videos: A Survey. arXiv'2025 [[paper](https://arxiv.org/abs/2505.18816)]
 
 ## General
 
