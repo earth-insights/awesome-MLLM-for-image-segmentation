@@ -79,6 +79,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ImgSemSeg][ImgInstSeg][ReferIS]`** ROSE: Revolutionizing Open-Set Dense Segmentation with Patch-Wise Perceptual Large Multimodal Model. arXiv'2025 [[paper](https://arxiv.org/abs/2412.00153)]
 - **`[ReferIS][ReasonIS]`** PIXELTHINK: Towards Efficient Chain-of-Pixel Reasoning. arXiv'2025 [[paper](https://arxiv.org/abs/2505.23727)] | [[code](https://github.com/songw-zju/PixelThink)] | [[project](https://pixelthink.github.io/)]
 - **`[ReferIS][ImgSemSeg]`** LlamaSeg: Image Segmentation via Autoregressive Mask Generation. arXiv'2025 [[paper](https://arxiv.org/abs/2505.19422)]
+- **`[ReferIS][OVSeg]`** ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation. arXiv'2025 [[paper](https://arxiv.org/abs/2505.16495)] | [[code](https://github.com/yayafengzi/ALToLLM)]
 
 
 ## Remote sensing
