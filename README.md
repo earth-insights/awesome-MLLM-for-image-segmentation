@@ -82,7 +82,6 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][OVSeg]`** ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation. arXiv'2025 [[paper](https://arxiv.org/abs/2505.16495)] | [[code](https://github.com/yayafengzi/ALToLLM)]
 - **`[ReferVOS][ReasonVOS]`**: VIDEOMOLMO: Spatio-Temporal Grounding Meets Pointing. arXiv'2025 [[paper](https://arxiv.org/abs/2506.05336)] | [[code](https://github.com/mbzuai-oryx/VideoMolmo?tab=readme-ov-file)]
 
-
 ## Remote sensing
 
 ### MLLM with Segmentation Capability
@@ -91,6 +90,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - GeoGround: A Unified Large Vision-Language Model. for Remote Sensing Visual Grounding. arXiv'2024. [[paper](http://arxiv.org/abs/2411.11904)] | [[code](https://github.com/zytx121/GeoGround)]
 - GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.06828)]
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[paper](https://arxiv.org/abs/2503.11070)] | [[code](https://github.com/TianHuiLab/Falcon)]
+- EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models. arXiv'2025. [[paper](https://arxiv.org/abs/2506.01667)] | [[code](https://github.com/shuyansy/EarthMind)]
 
 ### Segmentation Model with LLM/MLLM
 
