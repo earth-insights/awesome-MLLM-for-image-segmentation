@@ -82,6 +82,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][OVSeg]`** ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation. arXiv'2025 [[paper](https://arxiv.org/abs/2505.16495)] | [[code](https://github.com/yayafengzi/ALToLLM)]
 - **`[ReferVOS][ReasonVOS]`**: VIDEOMOLMO: Spatio-Temporal Grounding Meets Pointing. arXiv'2025 [[paper](https://arxiv.org/abs/2506.05336)] | [[code](https://github.com/mbzuai-oryx/VideoMolmo?tab=readme-ov-file)]
 - **`[ReasonIS][ReferIX]`**: RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought. ACL'2025 [[paper](https://www.arxiv.org/abs/2506.04277)]
+- **`[ReferVOS][ReasonVOS][ReasonIS][ReferIS]`**: One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos. NeurIPS'2024 [[paper](https://arxiv.org/abs/2409.19603)][[code](https://github.com/showlab/VideoLISA)]
 
 ## Remote sensing
 
