@@ -100,6 +100,10 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS]`** SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model. arXiv'2025. [[paper](https://arxiv.org/abs/2504.09644)] | [[code](https://github.com/earth-insights/SegEarth-R1)] | [[project](https://earth-insights.github.io/SegEarth-R1/)]
 - **`[ReasonIS]`** LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery. arXiv'2025. [[paper](https://arxiv.org/abs/2505.02829)] | [[code](https://github.com/lisat-bair/LISAt_code)] | [[project](https://lisat-bair.github.io/LISAt/)]
 
+### Benchmark
+
+- DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response. arXiv'2025. [[paper](https://arxiv.org/abs/2505.21089)]
+
 ## Contributing
 
 If you find any errors, or you wish to add some papers, please feel free to contribute to this list by contacting [me](https://likyoo.github.io/) or by creating a [pull request](https://github.com/likyoo/awesome-MLLM-for-image-segmentation/pulls) using the following Markdown format:
