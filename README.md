@@ -83,6 +83,7 @@ Note: Only the tasks assessed in the paper are listed here.
 
 ### Benchmark
 
+- **`[ReasonIS][ReferIS]`** MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation. ICLR'2025. [[paper](https://arxiv.org/abs/2503.13881)] | [[code](https://github.com/jdg900/MMR)]
 - **`[ReasonIS][ReferIS]`** Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels. CVPR'2025. [[paper](https://arxiv.org/abs/2505.13788)]
 - **`[ReferIS][GRES]`** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding. ICCV'2025. [[paper](https://arxiv.org/abs/2503.10596)] | [[code](https://github.com/hustvl/GroundingSuite)]
 
