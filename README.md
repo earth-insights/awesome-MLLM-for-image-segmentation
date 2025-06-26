@@ -99,7 +99,7 @@ Note: Only the tasks assessed in the paper are listed here.
 
 ### Segmentation Model with LLM/MLLM
 
-- **`[ReferIS][GCG]`** GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.13925)] | [[code](https://github.com/mbzuai-oryx/GeoPixel)] | [[project](https://mbzuai-oryx.github.io/GeoPixel/)]
+- **`[ReferIS][GCG]`** GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. ICML'2025. [[paper](https://arxiv.org/abs/2501.13925)] | [[code](https://github.com/mbzuai-oryx/GeoPixel)] | [[project](https://mbzuai-oryx.github.io/GeoPixel/)]
 - **`[ReferIS][ReasonIS]`** SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model. arXiv'2025. [[paper](https://arxiv.org/abs/2504.09644)] | [[code](https://github.com/earth-insights/SegEarth-R1)] | [[project](https://earth-insights.github.io/SegEarth-R1/)]
 - **`[ReasonIS]`** LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery. arXiv'2025. [[paper](https://arxiv.org/abs/2505.02829)] | [[code](https://github.com/lisat-bair/LISAt_code)] | [[project](https://lisat-bair.github.io/LISAt/)]
 
