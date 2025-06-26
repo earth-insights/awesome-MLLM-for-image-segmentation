@@ -63,14 +63,12 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS][ReferVOS][ReasonVOS]`** InstructSeg: Unifying Instructed Visual Segmentation with Multi-modal Large Language Models. arXiv'2024. [[paper](https://arxiv.org/abs/2412.14006)] | [[code](https://github.com/congvvc/InstructSeg)]
 - **`[ReasonMIS]`** PRIMA: Multi-Image Vision-Language Models for Reasoning Segmentation. arXiv'2024. [[paper](https://arxiv.org/abs/2412.15209)] | [[project](https://plan-lab.github.io/prima)]
 - **`[ReferIS][GCG][ReferVOS][VideoInteractSeg]`** Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos. CVPRW'2025. [[paper](https://arxiv.org/abs/2501.04001)] | [[code](https://github.com/magic-research/Sa2VA)] | [[project](https://lxtgh.github.io/project/sa2va/)]
-- **`[ReferIS][GRES]`** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding. ICCV'2025. [[paper](https://arxiv.org/abs/2503.10596)] | [[code](https://github.com/hustvl/GroundingSuite)]
 - **`[ReferIS][GRES][ReasonIS]`** HiMTok: Learning Hierarchical Mask Tokens for Image Segmentation with Large Multimodal Model. arXiv'2025. [[paper](https://arxiv.org/abs/2503.13026)] | [[code](https://github.com/yayafengzi/LMM-HiMTok)]
 - **`[ReferIS]`** Pixel-SAIL: Single Transformer For Pixel-Grounded Understanding. arXiv'2025. [[paper](https://arxiv.org/abs/2504.10465)] | [[project](https://zhang-tao-whu.github.io/project/pixelsail)]
 - **`[RES][ReferIS]`** Seg-Zero: Reasoning-Chain Guided Segmentation via Cognitive Reinforcement. arXiv'2025. [[paper](https://arxiv.org/abs/2503.06520)] | [[code](https://github.com/dvlab-research/Seg-Zero)]
 - **`[RES][ReferIS]`** Think Before You Segment: High-Quality Reasoning Segmentation with GPT Chain of Thoughts. arXiv'2025. [[paper](https://arxiv.org/abs/2503.07503)] | [[project](https://cse.hkust.edu.hk/~skao/thinkfirst.html)]
 - **`[RES][ReferIS]`** POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation. arXiv'2025. [[paper](https://arxiv.org/abs/2504.00640)] | [[project](https://lanyunzhu.site/POPEN/)]
 - **`[ReasonIS][ReferIS]`** MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation. ICLR'2025. [[paper](https://arxiv.org/abs/2503.13881)] | [[code](https://github.com/jdg900/MMR)]
-- **`[ReasonIS][ReferIS]`** Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels. CVPR'2025. [[paper](https://arxiv.org/abs/2505.13788)]
 - **`[ReasonIS][ReferIS]`** VisionReasoner: Unified Visual Perception and Reasoning via Reinforcement Learning. arXiv'2025. [[paper](https://arxiv.org/abs/2505.12081)] | [[code](https://github.com/dvlab-research/VisionReasoner)]
 - **`[ReferIS]`** Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model. CVPR'2024 [[paper](https://arxiv.org/abs/2312.12423)] | [[project](https://shramanpramanick.github.io/VistaLLM/)]
 - **`[ReferIS]`** SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories. CVPR'2025 [[paper](https://arxiv.org/abs/2503.08625)] | [[code](https://github.com/aim-uofa/SegAgent?tab=readme-ov-file)] | [[project](https://aim-uofa.github.io/SegAgent/)]
@@ -83,6 +81,11 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferVOS][ReasonVOS]`**: VIDEOMOLMO: Spatio-Temporal Grounding Meets Pointing. arXiv'2025 [[paper](https://arxiv.org/abs/2506.05336)] | [[code](https://github.com/mbzuai-oryx/VideoMolmo?tab=readme-ov-file)]
 - **`[ReasonIS][ReferIX]`**: RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought. ACL'2025 [[paper](https://www.arxiv.org/abs/2506.04277)]
 - **`[ReferVOS][ReasonVOS][ReasonIS][ReferIS]`**: One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos. NeurIPS'2024 [[paper](https://arxiv.org/abs/2409.19603)][[code](https://github.com/showlab/VideoLISA)]
+
+### Benchmark
+
+- **`[ReasonIS][ReferIS]`** Ground-V: Teaching VLMs to Ground Complex Instructions in Pixels. CVPR'2025. [[paper](https://arxiv.org/abs/2505.13788)]
+- **`[ReferIS][GRES]`** GroundingSuite: Measuring Complex Multi-Granular Pixel Grounding. ICCV'2025. [[paper](https://arxiv.org/abs/2503.10596)] | [[code](https://github.com/hustvl/GroundingSuite)]
 
 ## Remote sensing
 
