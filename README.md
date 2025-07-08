@@ -80,6 +80,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferVOS][ReasonVOS]`**: VIDEOMOLMO: Spatio-Temporal Grounding Meets Pointing. arXiv'2025 [[paper](https://arxiv.org/abs/2506.05336)] | [[code](https://github.com/mbzuai-oryx/VideoMolmo?tab=readme-ov-file)]
 - **`[ReasonIS][ReferIX]`**: RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought. ACL'2025 [[paper](https://www.arxiv.org/abs/2506.04277)]
 - **`[ReferVOS][ReasonVOS][ReasonIS][ReferIS]`**: One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos. NeurIPS'2024 [[paper](https://arxiv.org/abs/2409.19603)][[code](https://github.com/showlab/VideoLISA)]
+- **`[RES][GCG]`**: GroundingFace: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model. CVPR'2025 [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32585#:~:text=In%20this%20work%2C%20we%20introduce%20the%20textbf%20%7Btextit,dataset%2C%20meticulously%20curated%20for%20alignment%20pretraining%20and%20instruction-tuning.)]
 
 ### Benchmark
 
