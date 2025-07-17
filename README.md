@@ -81,6 +81,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReasonIS][ReferIX]`**: RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought. ACL'2025 [[paper](https://www.arxiv.org/abs/2506.04277)]
 - **`[ReferVOS][ReasonVOS][ReasonIS][ReferIS]`**: One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos. NeurIPS'2024 [[paper](https://arxiv.org/abs/2409.19603)][[code](https://github.com/showlab/VideoLISA)]
 - **`[RES][GCG]`**: GroundingFace: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model. CVPR'2025 [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32585#:~:text=In%20this%20work%2C%20we%20introduce%20the%20textbf%20%7Btextit,dataset%2C%20meticulously%20curated%20for%20alignment%20pretraining%20and%20instruction-tuning.)]
+- **`[ReferIS][ReasonIS]`**: Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning. arXiv'2025 [[paper](https://www.arxiv.org/abs/2506.22624)][[project](https://geshang777.github.io/seg-r1.github.io/)][[code](https://github.com/geshang777/Seg-R1)]
 
 ### Benchmark
 
@@ -103,6 +104,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][GCG]`** GeoPixel: Pixel Grounding Large Multimodal Model in Remote Sensing. ICML'2025. [[paper](https://arxiv.org/abs/2501.13925)] | [[code](https://github.com/mbzuai-oryx/GeoPixel)] | [[project](https://mbzuai-oryx.github.io/GeoPixel/)]
 - **`[ReferIS][ReasonIS]`** SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model. arXiv'2025. [[paper](https://arxiv.org/abs/2504.09644)] | [[code](https://github.com/earth-insights/SegEarth-R1)] | [[project](https://earth-insights.github.io/SegEarth-R1/)]
 - **`[ReasonIS]`** LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery. arXiv'2025. [[paper](https://arxiv.org/abs/2505.02829)] | [[code](https://github.com/lisat-bair/LISAt_code)] | [[project](https://lisat-bair.github.io/LISAt/)]
+- **`[ReferIS][GCG]`** GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing. arXiv'2025 [[paper](https://arxiv.org/abs/2507.05887)]
 
 ### Benchmark
 
