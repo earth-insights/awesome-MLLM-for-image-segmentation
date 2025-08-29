@@ -83,6 +83,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[RES][GCG]`**: GroundingFace: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model. CVPR'2025 [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32585#:~:text=In%20this%20work%2C%20we%20introduce%20the%20textbf%20%7Btextit,dataset%2C%20meticulously%20curated%20for%20alignment%20pretraining%20and%20instruction-tuning.)]
 - **`[ReferIS][ReasonIS]`**: Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning. arXiv'2025 [[paper](https://www.arxiv.org/abs/2506.22624)][[project](https://geshang777.github.io/seg-r1.github.io/)][[code](https://github.com/geshang777/Seg-R1)]
 - **`[ReferIS][ReasonIS][GCG][GRES][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg]`**: X-SAM: From Segment Anything to Any Segmentation. arXiv'2025 [[paper](https://arxiv.org/abs/2508.04655)][code](https://github.com/wanghao9610/X-SAM?tab=readme-ov-file)]
+- **`[ReferIS][ReasonIS]`**: LENS: Learning to Segment Anything with Unified Reinforced Reasoning. arXiv'2025 [[paper](https://arxiv.org/abs/2508.14153)][[code](https://github.com/hustvl/LENS)]
 
 ### Benchmark
 
