@@ -85,7 +85,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS][GCG][GRES][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg]`**: X-SAM: From Segment Anything to Any Segmentation. arXiv'2025 [[paper](https://arxiv.org/abs/2508.04655)][code](https://github.com/wanghao9610/X-SAM?tab=readme-ov-file)]
 - **`[ReferIS][ReasonIS]`**: LENS: Learning to Segment Anything with Unified Reinforced Reasoning. arXiv'2025 [[paper](https://arxiv.org/abs/2508.14153)][[code](https://github.com/hustvl/LENS)]
 - **`[ReferIS][ReasonIS][ReferVOS][ReasonVOS][ImgInteractSeg][VideoInteractSeg]`**: UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning. NeurIPS'2025 [[paper](https://arxiv.org/abs/2509.18094)][[code](https://github.com/PolyU-ChenLab/UniPixel)]
-- **`[ReferIS][ImgSemSeg][ImgInstSeg][ReasonIS]`**: UFO: AUnified Approach to Fine-grained Visual Perception via Open-ended Language Interface NeurIPS'2025 [[paper](https://arxiv.org/abs/2503.01342)][[code](https://github.com/nnnth/UFO)]
+- **`[ReferIS][ImgSemSeg][ImgInstSeg][ReasonIS]`**: UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface NeurIPS'2025 [[paper](https://arxiv.org/abs/2503.01342)][[code](https://github.com/nnnth/UFO)]
 
 ### Benchmark
 
