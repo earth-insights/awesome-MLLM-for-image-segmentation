@@ -111,6 +111,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS]`** SegEarth-R1: Geospatial Pixel Reasoning via Large Language Model. arXiv'2025. [[paper](https://arxiv.org/abs/2504.09644)] | [[code](https://github.com/earth-insights/SegEarth-R1)] | [[project](https://earth-insights.github.io/SegEarth-R1/)]
 - **`[ReasonIS]`** LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery. NeurIPS'2025. [[paper](https://arxiv.org/abs/2505.02829)] | [[code](https://github.com/lisat-bair/LISAt_code)] | [[project](https://lisat-bair.github.io/LISAt/)]
 - **`[ReferIS][GCG]`** GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing. arXiv'2025 [[paper](https://arxiv.org/abs/2507.05887)]
+- **`[ReferIS][ReasonIS]`** Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning. arXiv'2025 [[paper](https://arxiv.org/abs/2509.21976)][[code](https://github.com/Geo-R1/geo-r1)][[project](https://geo-r1.github.io/)]
 
 ### Benchmark
 
