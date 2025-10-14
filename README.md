@@ -87,6 +87,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS][ReferVOS][ReasonVOS][ImgInteractSeg][VideoInteractSeg]`**: UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning. NeurIPS'2025 [[paper](https://arxiv.org/abs/2509.18094)][[code](https://github.com/PolyU-ChenLab/UniPixel)]
 - **`[ReferIS][ImgSemSeg][ImgInstSeg][ReasonIS]`**: UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface. NeurIPS'2025 [[paper](https://arxiv.org/abs/2503.01342)][[code](https://github.com/nnnth/UFO)]
 - **`[ReferIS][ImgSemSeg][ImgInstSeg][OVSeg]`**: Advancing Visual Large Language Model for Multi-granular Versatile Perception. ICCV'2025 [[paper](https://arxiv.org/abs/2507.16213)][[code](https://github.com/xiangwentao666/MVP-LM)]
+-**`[ReferVOS][ReferIS]`**: MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding. arXiv'2025 [[paper](https://arxiv.org/abs/2510.09274)][[code](https://github.com/Dmmm1997/MomentSeg)]
 
 ### Benchmark
 
