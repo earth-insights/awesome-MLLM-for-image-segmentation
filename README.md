@@ -42,6 +42,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - PaliGemma: A versatile 3B VLM for transfer. arXiv'2024. [[paper](https://arxiv.org/abs/2407.07726)] | [[code](https://github.com/google-research/big_vision)]
 - PaliGemma 2: A Family of Versatile VLMs for Transfer. arXiv'2024. [[paper](https://arxiv.org/abs/2412.03555)] | [[code](https://github.com/google-research/big_vision)]
 - REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding. arXiv'2025 [[paper](https://arxiv.org/abs/2503.07413)] | [[code](https://github.com/MacavityT/REF-VLM)]
+- Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in MLLMs. arXiv'2025 [[paper](https://arxiv.org/abs/2510.01954)] | [[code](https://github.com/Gorilla-Lab-SCUT/PaDT)]
 
 ### Segmentation Model with LLM/MLLM
 
@@ -79,7 +80,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][OVSeg]`** ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation. arXiv'2025 [[paper](https://arxiv.org/abs/2505.16495)] | [[code](https://github.com/yayafengzi/ALToLLM)]
 - **`[ReferVOS][ReasonVOS]`**: VIDEOMOLMO: Spatio-Temporal Grounding Meets Pointing. arXiv'2025 [[paper](https://arxiv.org/abs/2506.05336)] | [[code](https://github.com/mbzuai-oryx/VideoMolmo?tab=readme-ov-file)]
 - **`[ReasonIS][ReferIX]`**: RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought. ACL'2025 [[paper](https://www.arxiv.org/abs/2506.04277)]
-- **`[ReferVOS][ReasonVOS][ReasonIS][ReferIS]`**: One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos. NeurIPS'2024 [[paper](https://arxiv.org/abs/2409.19603)][[code](https://github.com/showlab/VideoLISA)]
+- **`[ReferVOS][ReasonVOS][ReasonIS][ReferIS]`**: One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos. NeurIPS'2024 [[paper](https://arxiv.org/abs/2409.19603)] | [[code](https://github.com/showlab/VideoLISA)]
 - **`[RES][GCG]`**: GroundingFace: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model. CVPR'2025 [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32585#:~:text=In%20this%20work%2C%20we%20introduce%20the%20textbf%20%7Btextit,dataset%2C%20meticulously%20curated%20for%20alignment%20pretraining%20and%20instruction-tuning.)]
 - **`[ReferIS][ReasonIS]`**: Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning. arXiv'2025 [[paper](https://www.arxiv.org/abs/2506.22624)][[project](https://geshang777.github.io/seg-r1.github.io/)][[code](https://github.com/geshang777/Seg-R1)]
 - **`[ReferIS][ReasonIS][GCG][GRES][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg]`**: X-SAM: From Segment Anything to Any Segmentation. arXiv'2025 [[paper](https://arxiv.org/abs/2508.04655)][code](https://github.com/wanghao9610/X-SAM?tab=readme-ov-file)]
