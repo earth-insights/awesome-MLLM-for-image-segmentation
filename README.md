@@ -116,7 +116,7 @@ Note: Only the tasks assessed in the paper are listed here.
 
 ### Benchmark
 
-- DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response. arXiv'2025. [[paper](https://arxiv.org/abs/2505.21089)]
+- DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response. NeurIPS'2025. [[paper](https://arxiv.org/abs/2505.21089)]
 
 ## Contributing
 
