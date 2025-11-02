@@ -118,6 +118,8 @@ Note: Only the tasks assessed in the paper are listed here.
 ### Benchmark
 
 - DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response. NeurIPS'2025. [[paper](https://arxiv.org/abs/2505.21089)]
+- GEOBench-VLM: Benchmarking Vision-Language Models for Geospatial Tasks. ICCV'2025 [[paper](https://arxiv.org/abs/2411.19325)] | [[code](https://github.com/The-AI-Alliance/GEO-Bench-VLM)]
+  
 
 ## Contributing
 
