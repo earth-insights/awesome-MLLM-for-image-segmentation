@@ -106,6 +106,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - GeoPix: Multi-Modal Large Language Model for Pixel-level Image Understanding in Remote Sensing. arXiv'2025. [[paper](https://arxiv.org/abs/2501.06828)]
 - Falcon: A Remote Sensing Vision-Language Foundation Model. arXiv'2025. [[paper](https://arxiv.org/abs/2503.11070)] | [[code](https://github.com/TianHuiLab/Falcon)]
 - EarthMind: Towards Multi-Granular and Multi-Sensor Earth Observation with Large Multimodal Models. arXiv'2025. [[paper](https://arxiv.org/abs/2506.01667)] | [[code](https://github.com/shuyansy/EarthMind)]
+- RemoteReasoner: Towards Unifying Geospatial Reasoning Workflow. AAAI'2026. [[paper](https://arxiv.org/abs/2507.19280)] | [[code](https://github.com/1e12Leon/RemoteReasoner)]
 
 ### Segmentation Model with LLM/MLLM
 
