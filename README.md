@@ -78,18 +78,19 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][ReasonIS]`** PIXELTHINK: Towards Efficient Chain-of-Pixel Reasoning. arXiv'2025 [[paper](https://arxiv.org/abs/2505.23727)] | [[code](https://github.com/songw-zju/PixelThink)] | [[project](https://pixelthink.github.io/)]
 - **`[ReferIS][ImgSemSeg]`** LlamaSeg: Image Segmentation via Autoregressive Mask Generation. arXiv'2025 [[paper](https://arxiv.org/abs/2505.19422)]
 - **`[ReferIS][OVSeg]`** ALTo: Adaptive-Length Tokenizer for Autoregressive Mask Generation. arXiv'2025 [[paper](https://arxiv.org/abs/2505.16495)] | [[code](https://github.com/yayafengzi/ALToLLM)]
-- **`[ReferVOS][ReasonVOS]`**: VIDEOMOLMO: Spatio-Temporal Grounding Meets Pointing. arXiv'2025 [[paper](https://arxiv.org/abs/2506.05336)] | [[code](https://github.com/mbzuai-oryx/VideoMolmo?tab=readme-ov-file)]
-- **`[ReasonIS][ReferIX]`**: RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought. ACL'2025 [[paper](https://www.arxiv.org/abs/2506.04277)]
+- **`[ReferVOS][ReasonVOS]`** VIDEOMOLMO: Spatio-Temporal Grounding Meets Pointing. arXiv'2025 [[paper](https://arxiv.org/abs/2506.05336)] | [[code](https://github.com/mbzuai-oryx/VideoMolmo?tab=readme-ov-file)]
+- **`[ReasonIS][ReferIX]`** RSVP: Reasoning Segmentation via Visual Prompting and Multi-modal Chain-of-Thought. ACL'2025 [[paper](https://www.arxiv.org/abs/2506.04277)]
 - **`[ReferVOS][ReasonVOS][ReasonIS][ReferIS]`**: One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos. NeurIPS'2024 [[paper](https://arxiv.org/abs/2409.19603)] | [[code](https://github.com/showlab/VideoLISA)]
-- **`[RES][GCG]`**: GroundingFace: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model. CVPR'2025 [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32585#:~:text=In%20this%20work%2C%20we%20introduce%20the%20textbf%20%7Btextit,dataset%2C%20meticulously%20curated%20for%20alignment%20pretraining%20and%20instruction-tuning.)]
-- **`[ReferIS][ReasonIS]`**: Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning. arXiv'2025 [[paper](https://www.arxiv.org/abs/2506.22624)][[project](https://geshang777.github.io/seg-r1.github.io/)][[code](https://github.com/geshang777/Seg-R1)]
+- **`[RES][GCG]`** GroundingFace: Fine-grained Face Understanding via Pixel Grounding Multimodal Large Language Model. CVPR'2025 [[paper](https://cvpr.thecvf.com/virtual/2025/poster/32585#:~:text=In%20this%20work%2C%20we%20introduce%20the%20textbf%20%7Btextit,dataset%2C%20meticulously%20curated%20for%20alignment%20pretraining%20and%20instruction-tuning.)]
+- **`[ReferIS][ReasonIS]`** Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning. arXiv'2025 [[paper](https://www.arxiv.org/abs/2506.22624)][[project](https://geshang777.github.io/seg-r1.github.io/)][[code](https://github.com/geshang777/Seg-R1)]
 - **`[ReferIS][ReasonIS][GCG][GRES][ImgSemSeg][ImgInstSeg][ImgInteractSeg][ImgInteractSeg]`**: X-SAM: From Segment Anything to Any Segmentation. arXiv'2025 [[paper](https://arxiv.org/abs/2508.04655)][code](https://github.com/wanghao9610/X-SAM?tab=readme-ov-file)]
-- **`[ReferIS][ReasonIS]`**: LENS: Learning to Segment Anything with Unified Reinforced Reasoning. arXiv'2025 [[paper](https://arxiv.org/abs/2508.14153)][[code](https://github.com/hustvl/LENS)]
-- **`[ReferIS][ReasonIS][ReferVOS][ReasonVOS][ImgInteractSeg][VideoInteractSeg]`**: UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning. NeurIPS'2025 [[paper](https://arxiv.org/abs/2509.18094)][[code](https://github.com/PolyU-ChenLab/UniPixel)]
-- **`[ReferIS][ImgSemSeg][ImgInstSeg][ReasonIS]`**: UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface. NeurIPS'2025 [[paper](https://arxiv.org/abs/2503.01342)][[code](https://github.com/nnnth/UFO)]
-- **`[ReferIS][ImgSemSeg][ImgInstSeg][OVSeg]`**: Advancing Visual Large Language Model for Multi-granular Versatile Perception. ICCV'2025 [[paper](https://arxiv.org/abs/2507.16213)][[code](https://github.com/xiangwentao666/MVP-LM)]
-- **`[ReferVOS][ReferIS]`**: MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding. arXiv'2025 [[paper](https://arxiv.org/abs/2510.09274)][[code](https://github.com/Dmmm1997/MomentSeg)]
-- **`[ReferIS][ImgInteractSeg]`**: ARGenSeg: Image Segmentation with Autoregressive Image Generation Model. NeurIPS'2025 [[paper](http://arxiv.org/pdf/2510.20803v1)]
+- **`[ReferIS][ReasonIS]`** LENS: Learning to Segment Anything with Unified Reinforced Reasoning. arXiv'2025 [[paper](https://arxiv.org/abs/2508.14153)][[code](https://github.com/hustvl/LENS)]
+- **`[ReferIS][ReasonIS][ReferVOS][ReasonVOS][ImgInteractSeg][VideoInteractSeg]`** UniPixel: Unified Object Referring and Segmentation for Pixel-Level Visual Reasoning. NeurIPS'2025 [[paper](https://arxiv.org/abs/2509.18094)][[code](https://github.com/PolyU-ChenLab/UniPixel)]
+- **`[ReferIS][ImgSemSeg][ImgInstSeg][ReasonIS]`** UFO: A Unified Approach to Fine-grained Visual Perception via Open-ended Language Interface. NeurIPS'2025 [[paper](https://arxiv.org/abs/2503.01342)][[code](https://github.com/nnnth/UFO)]
+- **`[ReferIS][ImgSemSeg][ImgInstSeg][OVSeg]`** Advancing Visual Large Language Model for Multi-granular Versatile Perception. ICCV'2025 [[paper](https://arxiv.org/abs/2507.16213)][[code](https://github.com/xiangwentao666/MVP-LM)]
+- **`[ReferVOS][ReferIS]`** MomentSeg: Moment-Centric Sampling for Enhanced Video Pixel Understanding. arXiv'2025 [[paper](https://arxiv.org/abs/2510.09274)][[code](https://github.com/Dmmm1997/MomentSeg)]
+- **`[ReferIS][ImgInteractSeg]`** ARGenSeg: Image Segmentation with Autoregressive Image Generation Model. NeurIPS'2025 [[paper](http://arxiv.org/pdf/2510.20803v1)]
+- **`[ReferIS][ReasonIS]`** Better, Stronger, Faster: Tackling the Trilemma in MLLM-based Segmentation with Simultaneous Textual Mask Prediction. arXiv'2025 [[paper](https://www.arxiv.org/abs/2512.00395)] | [[code](https://github.com/HKUST-LongGroup/STAMP)]
 
 ### Benchmark
 
@@ -115,6 +116,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReasonIS]`** LISAt: Language-Instructed Segmentation Assistant for Satellite Imagery. NeurIPS'2025. [[paper](https://arxiv.org/abs/2505.02829)] | [[code](https://github.com/lisat-bair/LISAt_code)] | [[project](https://lisat-bair.github.io/LISAt/)]
 - **`[ReferIS][GCG]`** GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing. MM'2025 [[paper](https://arxiv.org/abs/2507.05887)]
 - **`[ReferIS][ReasonIS]`** Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning. arXiv'2025 [[paper](https://arxiv.org/abs/2509.21976)] | [[code](https://github.com/Geo-R1/geo-r1)] | [[project](https://geo-r1.github.io/)]
+- **`[ReferIS][ReasonIS][ImgInteractSeg]`** UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes. arXiv'2025 [[paper](https://www.arxiv.org/abs/2511.23332)] | [[code](https://github.com/MiliLab/UniGeoSeg)]
 
 ### Benchmark
 
