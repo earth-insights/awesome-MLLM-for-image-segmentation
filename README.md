@@ -117,6 +117,7 @@ Note: Only the tasks assessed in the paper are listed here.
 - **`[ReferIS][GCG]`** GeoMag: A Vision-Language Model for Pixel-level Fine-Grained Remote Sensing Image Parsing. MM'2025 [[paper](https://arxiv.org/abs/2507.05887)]
 - **`[ReferIS][ReasonIS]`** Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning. arXiv'2025 [[paper](https://arxiv.org/abs/2509.21976)] | [[code](https://github.com/Geo-R1/geo-r1)] | [[project](https://geo-r1.github.io/)]
 - **`[ReferIS][ReasonIS][ImgInteractSeg]`** UniGeoSeg: Towards Unified Open-World Segmentation for Geospatial Scenes. arXiv'2025 [[paper](https://www.arxiv.org/abs/2511.23332)] | [[code](https://github.com/MiliLab/UniGeoSeg)]
+- **`[ReferIS][ReasonIS]`** SegEarth-R2: Towards Comprehensive Language-guided Segmentation for Remote Sensing Images. arXiv'2025 [[paper](https://arxiv.org/abs/2512.20013)] | [[code](https://github.com/earth-insights/SegEarth-R2)]
 
 ### Benchmark
 
